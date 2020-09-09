@@ -1,28 +1,26 @@
 # Fundamentals of Computer Programming
 
-**Faculty**:
-
 #### Batch: 2024
 
 #### Projects
 
-- Link 1
+- [Building a Simple Calculator in Python](https://realpython.com/python-first-steps/)
 
 #### References
 
-- Link 1
+- [The Python Standard Library](https://docs.python.org/3/library/index.html)
+- [Codecademy's Python Course](https://www.codecademy.com/learn/learn-python-3)
 
 #### Books
 
-- Link 1
+- [Python Crash Course, 2nd Edition](https://nostarch.com/pythoncrashcourse2e)
+- [Automate the Boring Stuff with Python, 2nd Edition](https://automatetheboringstuff.com/2e/)
 
-#### Exam Papers&#x20;
+#### Exam Papers
 
-- Midsem&#x20;
-  - Link 1
-- Endsem&#x20;
-  - Link 1
-- Quizes
-  - Link 1
-
----
+- Midsem
+  - [Example Midterm Exam](https://www.cs.cmu.edu/~112/exams/midterm1-s20/)
+- Endsem
+  - [Example Final Exam](https://www.cs.cmu.edu/~112/exams/final-s21/)
+- Quizzes
+  - [Sample Quiz Questions](https://www.tutorialspoint.com/python/python_online_quiz.htm)

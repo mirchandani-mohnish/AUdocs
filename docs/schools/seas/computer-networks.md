@@ -24,10 +24,3 @@ This course covers the fundamentals of computer networks, including the design, 
 - [Computer Networks: A Systems Approach by Larry L. Peterson and Bruce S. Davie](https://www.amazon.com/Computer-Networks-Systems-Approach-5th/dp/0123850592)
 
 #### Exam Papers
-
-- Midsem
-  - [Link 1](https://www.example.com/midsem-cn-2024)
-- Endsem
-  - [Link 1](https://www.example.com/endsem-cn-2024)
-- Quizzes
-  - [Link 1](https://www.example.com/quizzes-cn-2024)

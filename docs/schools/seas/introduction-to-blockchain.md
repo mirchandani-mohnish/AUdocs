@@ -21,13 +21,8 @@ This course provides an introduction to blockchain technology, including its des
 #### Books
 
 - [Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038)
-- [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World]()
 
 #### Exam Papers
 
-- Midsem
-  - [Link 1](https://www.example.com/midsem-blockchain-2024)
-- Endsem
-  - [Link 1](https://www.example.com/endsem-blockchain-2024)
-- Quizzes
-  - [Link 1](https://www.example.com/quizzes-blockchain-2024)
+- General  
+  [click here](https://www.researchgate.net/publication/347484043_Sample_Question_Paper_for_Blockchain_Exam_Blockchain_Council_Prep_Exam_Question_Paper_Section-A_Write_Short_Notes_Short_Answer_Questions_5_Points_Answer_Any_Five_Questions_5Q_X_5Marks_25_Marks_Write_w)
