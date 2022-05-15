@@ -1,12 +1,14 @@
 # An AUwide Resource Sharing Repository.
-*Built and Run by AUites*
 
-Welcome to the official AUwide resource sharing repository. The following is made for reference purposes only. All resources shared here are free and open source. You may clone them at **Your Own Risk**. 
+_Built and Run by AUites_
 
-If you are new here, check out the [Newbies]() section. 
+Welcome to the official AUwide resource sharing repository. The following is made for reference purposes only. All resources shared here are free and open source. You may clone them at **Your Own Risk**.
+
+If you are new here, check out the [Newbies]() section.
 
 ## Table of Contents
-- [How to use this repository?]()
+
+- [How to use this repository?](#how-to-use-this-repository)
 - [AUdocs]()
   - [Foundation Courses](./Foundation/index.md)
   - [ISPs](./ISPs/index.md)
@@ -16,9 +18,22 @@ If you are new here, check out the [Newbies]() section.
     - [AMSOM](./Schools/AMSOM/index.md)
   - [Course Plans](./General/CoursePlans/index.md)
   - [Guides](./General/Guides/index.md)
+- [Newbies](./General/Newbies.md)
 - [How to contribute](./General/contributionGuidelines.md)
 - [Repo Map](./General/RepoMap.md)
 
 ---
-## How to use this Repository...
-This is a FOSS library for the true AUite. You may use it anyway you like.
+
+## How to use this Repository
+
+This is a FOSS library for the true AUite. You may use it as a reference or as a source. Please refrain from citing the entire repository for any material you may or may not have referred from the repository.
+
+## Contributing to the Repository.
+
+All contributions are truly welcome. You can submit resources, change the source code, update the documentation, fix bugs or make additional changes as and when required.
+
+With respect to submission of resources, we request you to submit only complete and correct resources. Please go through the [Contribution Guidelines](./General/contributionGuidelines.md) before contributing to the repository.
+
+We follow [semantic versioning](https://semver.org/) for all major updates. All contributions are subject to being reviewed by the community.
+
+Partial Pull Requests will not be entertained. If you are unable to work upon an assigned task, feel free to contact the community on the respective github issues page or via our [Discord](https://discord.gg/efyvzstC) server.
