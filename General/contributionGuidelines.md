@@ -3,6 +3,10 @@
 - [Submitting Resources](#submitting-resources)
 - [Submitting Patches](#submitting-patches)
 
+Please follow this guide for all contributions. If you are new to git and github, we request you to go through the [Newbies](./Newbies.md) section.
+
+You may also discuss contributions and other stuff on our [discord]() server.
+
 ## Submitting Resources
 
 You can submit resources using one of the following two methods.
@@ -30,3 +34,18 @@ You may directly update the resources by forking the repository, updating the re
 ## Submitting Patches
 
 You may submit patches to the repository wherever you feel they are required. Please do not open issues and submit patches for minor gramatical errors and spacing corrections. Such updates would then be considered in the next patch submission. We also request you to discuss any major changes with the community before opening a pull request.
+
+## Uploading New Courses
+
+All courses are supposed to be housed in their respective locations. You can generally figure out the location based on the folder structure. Every course must only have one file consisting of all the links to the respective material.
+
+The file for the respective course must be named as follows
+
+`CourseCode_CourseName.md`
+
+The same data must be updated in the respective index files of the folder which is being updated.
+
+## General Guidelines
+
+- We request you to check your commits for repetitive commits before updating content to the documentation.
+- We follow the [contributor's covenent](https://www.contributor-covenant.org/) as a structure for our community.
