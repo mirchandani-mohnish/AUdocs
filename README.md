@@ -2,14 +2,18 @@
 
 _Built and Run by AUites_
 
+<p align="right">
+<a href="https://discord.gg/efyvzstC"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
+</p>
+
 Welcome to the official AUwide resource sharing repository. The following is made for reference purposes only. All resources shared here are free and open source. You may clone them at **Your Own Risk**.
 
-If you are new here, check out the [Newbies]() section.
+If you are new here, check out the [Newbies](./General/Newbies.md) section.
 
 ## Table of Contents
 
 - [How to use this repository?](#how-to-use-this-repository)
-- [AUdocs]()
+- [AUdocs](.)
   - [Foundation Courses](./Foundation/index.md)
   - [ISPs](./ISPs/index.md)
   - [Courses]()
