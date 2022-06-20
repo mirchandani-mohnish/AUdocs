@@ -6,10 +6,10 @@
 
 ## Mathematics
 
-* [Applied Linear Algebra - MAT](../../Schools/SEAS/)
-* [Probability and Stochastic Processes](../../Schools/SEAS/)
+* Applied Linear Algebra - MAT
+* Probability and Stochastic Processes
 
 ## Computer Science
 
-* [Computer Organization and Architecture](index.md)
-* [Database Management Systems](index.md)
+* Computer Organization and Architecture
+* Database Management Systems

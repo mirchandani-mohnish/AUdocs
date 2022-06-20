@@ -21,6 +21,8 @@
   * [SAS](schools/sas/README.md)
     * [index](schools/sas/index.md)
   * [SEAS](schools/seas/README.md)
+    * [Computer Organization and Architecture](schools/seas/computer-organization-and-architecture.md)
     * [School of Engineering and Applied Sciences](schools/seas/index.md)
+    * [Applied Linear Algebra](schools/seas/applied-linear-algebra.md)
   * [AMSOM](schools/amsom/README.md)
     * [Amrut Modi School of Management](Schools/AMSOM/index.md)
