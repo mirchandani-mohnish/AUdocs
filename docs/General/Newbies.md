@@ -21,7 +21,10 @@ Your first step to open source would be to master a version control system like 
 
 This is a tutorial guide for Newbies to make their first contribution to the repository. Following this, you would have forked the repository, made your changes and opened your first pull request.
 
-Firstly, start off by making a fork of this repository on github.
+## Prerequisites
+
+- You must have Node >= v12 installed.
+  Firstly, start off by making a fork of this repository on github.
 
 ![Forking](/img/Nebies-Fork.png)
 
@@ -30,8 +33,67 @@ Once you've done this, go ahead and clone your repository into your local machin
 ![Cloning](/img/Newbies-Cloning1.png)
 ![Cloning](/img/Newbies-Cloning2.png)
 
-Now once the repository is cloned, come to this document in the General Folder and append your name to the [Newbies List](#newbie-list)
-![List Append](/img/Newbies-ListAppend.png)
+```
+What you've done uptil now
+- You have made a copy of this repository in your own github profile // called forking
+- You then went on and downloaded that repository in your own personal computer // called cloning
+```
+
+Now once the repository is cloned, you may open it using your favourite code editor/ide.
+
+Go to the root directory (`AUdocs`) and run the following command:
+
+```
+npm install
+```
+
+Once you've reached this point, you may see the following structure:
+
+```
+.
+├── babel.config.js
+├── blog
+├── build
+├── _config.yml
+├── docs
+├── docusaurus.config.js
+├── node_modules
+├── package.json
+├── package-lock.json
+├── README.md
+├── sidebars.js
+├── src
+├── static
+└── SUMMARY.md
+
+```
+
+Expand the **docs** folder to find the following structure.
+
+```
+├── General
+│   ├── about.md
+│   ├── contributionguidelines.md
+│   ├── courseplans
+│   ├── guides
+│   ├── Newbies.md
+│   ├── README.md
+│   ├── repomap.md
+│   └── sitemap.md
+├── intro.md
+├── ISPs
+│   └── index.md
+└── schools
+    ├── amsom
+    ├── README.md
+    ├── sas
+    └── seas
+
+```
+
+_Note_: The above structure may have changed based on new additions but the respective files in these tutorials should positively be here.
+
+Open the Newbies.md document in the General Folder and append your name to the [Newbies List](#newbie-list)
 
 You can now add and commit your changes and push them to your repository.
 
