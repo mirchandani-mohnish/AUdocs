@@ -40,6 +40,8 @@ The file for the respective course must be named as follows
 
 `CourseName.md`
 
+**The First line of every course should be `# CourseName //with spaces and punctuation`**
+
 If the course name contains multiple words, you may seperate them using a hyphen.
 
 The file must be placed in accordance with its position in the documentation. For example: A Language course such as french being offerred in the School of Arts and Sciences should be placed along the following path `/docs/schools/sas/conversational-french.md`
