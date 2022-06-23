@@ -19,12 +19,10 @@ You may create an issue on this repository listing the resource you want to subm
 Issue Title: Resource Update: <Resource Type>/<Resource Name>
 
 Resource Title:
-Resource Path: Path/To/Resource // Where you think the resource can be placed in the repository.
-Resource Files:
-Resource Links:
+Resource Course:
+Resource Type: // (Project, Reference, Book, Guide, Exam Paper)
+Resource Links: // place the drive links shared across the university.
 ```
-
-Please check out some preset templates for specific resources. We request you to immitate the current repository structure as closely as possible in order to keep the repository structured.
 
 ### 2. Directly Updating Resources to the Repository
 
@@ -40,9 +38,11 @@ All courses are supposed to be housed in their respective locations. You can gen
 
 The file for the respective course must be named as follows
 
-`CourseCode_CourseName.md`
+`CourseName.md`
 
-The same data must be updated in the respective index files of the folder which is being updated.
+If the course name contains multiple words, you may seperate them using a hyphen.
+
+The file must be placed in accordance with its position in the documentation. For example: A Language course such as french being offerred in the School of Arts and Sciences should be placed along the following path `/docs/schools/sas/conversational-french.md`
 
 ## General Guidelines
 
