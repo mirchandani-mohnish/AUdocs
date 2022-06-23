@@ -1,11 +1,11 @@
 # How to Contribute
 
-- [Submitting Resources](contributionguidelines.md#submitting-resources)
-- [Submitting Patches](contributionguidelines.md#submitting-patches)
+- [Submitting Resources](how-to-contribute.md#submitting-resources)
+- [Submitting Patches](how-to-contribute.md#submitting-patches)
 
-Please follow this guide for all contributions. If you are new to git and github, we request you to go through the [Newbies](../General/Newbies.md) section.
+Please follow this guide for all contributions. If you are new to git and github, we request you to go through the [Newbies](./Newbies.md) section.
 
-You may also discuss contributions and other stuff on our [discord](contributionguidelines.md) server.
+You may also discuss contributions and other stuff on our [discord](how-to-contribute.md) server.
 
 ## Submitting Resources
 
