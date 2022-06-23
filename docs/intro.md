@@ -2,46 +2,35 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Documentation Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **AUdocs in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Head to the github and fork the repository.
 
 ### What you'll need
 
 - [Node.js](https://nodejs.org/en/download/) version 14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## Generate a new site
+## Build the site
 
-Generate a new Docusaurus site using the **classic template**.
+Open your root directory and run the following commands
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
 ```
+npm install
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
 npm run start
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+You will see the site up on your local server in a giffy.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## Make your first contribution...
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+All changes made would be pertaining to the docs folder. You may upload courses or new projects or anything AU related with enthusiasm.
+
+You can always open issues in case you do not want to deal with the source code.
+
+All contributions would be truly appreciated.
