@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Documentation Intro
+# AUdocs
 
 Let's discover **AUdocs in less than 5 minutes**.
 

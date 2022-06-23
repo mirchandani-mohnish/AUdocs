@@ -1,7 +1,7 @@
 # How to Contribute
 
-* [Submitting Resources](contributionguidelines.md#submitting-resources)
-* [Submitting Patches](contributionguidelines.md#submitting-patches)
+- [Submitting Resources](contributionguidelines.md#submitting-resources)
+- [Submitting Patches](contributionguidelines.md#submitting-patches)
 
 Please follow this guide for all contributions. If you are new to git and github, we request you to go through the [Newbies](../General/Newbies.md) section.
 
@@ -46,5 +46,5 @@ The same data must be updated in the respective index files of the folder which 
 
 ## General Guidelines
 
-* We request you to check your commits for repetitive commits before updating content to the documentation.
-* We follow the [contributor's covenent](https://www.contributor-covenant.org/) as a structure for our community.
+- We request you to check your commits for repetitive commits before updating content to the documentation.
+- We follow the [contributor's covenent](https://www.contributor-covenant.org/) as a structure for our community.
