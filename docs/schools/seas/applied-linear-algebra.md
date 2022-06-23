@@ -1,30 +1,19 @@
 # Applied Linear Algebra
 
-**Faculty**: Gaurav Goswami&#x20;
+**Faculty**: Gaurav Goswami
 
 #### Batch: 2024
 
 #### Projects
 
-* Link 1
+- [Prognosticators](https://drive.google.com/drive/folders/13GMoVtlGdYXEI2ZWY8EIajGX0sBNcwp1?usp=sharing)
 
 #### References
 
-* Link 1
-
 #### Books
 
-* Link 1
+- [David C Lay - Textbook](https://drive.google.com/file/d/1c-CvBFhkNO8KEWZLIAAdtVnTNFAWJc8O/view?usp=sharing)
 
-#### Exam Papers&#x20;
+#### Exam Papers
 
-* Midsem&#x20;
-  * Link 1
-* Endsem&#x20;
-  * Link 1
-* Quizes
-  * Link 1
-
-
-
-****
+---

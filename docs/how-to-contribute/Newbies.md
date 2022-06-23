@@ -98,6 +98,13 @@ Open the Newbies.md document in the General Folder and append your name to the [
 You can now add and commit your changes and push them to your repository.
 
 ![add commit](/img/Newbies-addcommit.png)
+
+You have now made changes to your local repository. Go ahead and push them to your own fork(your repo on github).
+
+```
+git push
+```
+
 Once you have done that. You should be able to see the changes on your fork i.e. on (YourName)/AUdocs.
 
 Now you need to open a new pull request. For that, go to the 'pull requests' tab on github and click 'New pull request'.
