@@ -6,23 +6,8 @@ _Built and Run by AUites_
 
 Welcome to the official AUwide resource sharing repository. The following is made for reference purposes only. All resources shared here are free and open source. You may clone them at **Your Own Risk**.
 
-If you are new here, check out the [Newbies](General/Newbies.md) section.
+If you are new here, check out the Newbies section.
 
-## Table of Contents
-
-- [How to use this repository?](./#how-to-use-this-repository)
-- [AUdocs](./)
-  - [Foundation Courses](Foundation/index.md)
-  - [ISPs](ISPs/index.md)
-  - [Courses](./)
-    - [SEAS](schools/seas/index.md)
-    - [SAS](schools/sas/index.md)
-    - [AMSOM](Schools/AMSOM/index.md)
-  - [Course Plans](general/courseplans/index.md)
-  - [Guides](general/guides/index.md)
-- [Newbies](General/Newbies.md)
-- [How to contribute](general/contributionguidelines.md)
-- [Repo Map](general/repomap.md)
 
 ---
 
