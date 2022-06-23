@@ -28,40 +28,17 @@ Partial Pull Requests will not be entertained. If you are unable to work upon an
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+### What you'll need
+
+- [Node.js](https://nodejs.org/en/download/) version 14 or above:
+  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+
+## Building the Repo in your local machine
 
 ```
-$ yarn
+git clone {link of your fork}
+
+cd AUdocs
+npm install
+npm run start
 ```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
