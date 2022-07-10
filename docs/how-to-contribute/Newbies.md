@@ -116,3 +116,4 @@ Fill in the valid details and create a pull request.
 ## Newbie List
 
 - Mohnish Mirchandani
+- Maulik Ranadive 
