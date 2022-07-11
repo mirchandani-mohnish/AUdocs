@@ -113,7 +113,7 @@ Now you need to open a new pull request. For that, go to the 'pull requests' tab
 
 Fill in the valid details and create a pull request.
 
-## Newbie List
+## Newbie List (Add your name here)
 
 - Mohnish Mirchandani
-- Maulik Ranadive 
+- Maulik Ranadive
