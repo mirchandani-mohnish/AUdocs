@@ -1,4 +1,4 @@
-# Conversational French 1
+# Conversational Spanish 1
 
 **Faculty**:
 

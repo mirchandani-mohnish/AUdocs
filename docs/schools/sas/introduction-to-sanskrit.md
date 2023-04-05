@@ -1,4 +1,4 @@
-# Conversational French 1
+# Introduction to Sanskrit
 
 **Faculty**:
 
