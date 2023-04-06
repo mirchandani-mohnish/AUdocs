@@ -1,32 +1,33 @@
-# Introduction To Blockchain
+# Introduction to Blockchain
 
-**Faculty**:
+**Faculty**: Department of Computer Science and Engineering
 
 #### Batch: 2024
 
 #### Description
 
-Blockchain is a distributed ledger technology that enables secure, transparent, and tamper-proof transactions without the need for intermediaries. This course provides an introduction to blockchain concepts, including decentralized networks, consensus mechanisms, and smart contracts. Students will learn about the different types of blockchains, such as public, private, and hybrid, and their applications in various industries such as finance, healthcare, and supply chain management. The course will also cover emerging trends in blockchain, such as decentralized finance (DeFi) and non-fungible tokens (NFTs). By the end of the course, students should have a strong foundation in blockchain and be able to design and develop blockchain-based applications.
+This course provides an introduction to blockchain technology, including its design principles, underlying technologies, and applications. Students will learn about the fundamentals of blockchain, such as distributed ledgers, consensus mechanisms, and smart contracts. The course will also cover topics such as cryptocurrency, decentralized applications, and the future of blockchain technology. By the end of the course, students should be able to evaluate the potential of blockchain technology for various applications.
 
 #### Projects
 
-- Link 1
+- [Smart Contract Implementation](https://github.com/jainamansari/smart-contract)
+- [Blockchain-Based Supply Chain Management System](https://github.com/jainamansari/blockchain-supply-chain)
 
 #### References
 
-- Link 1
+- [Blockchain Basics course by IBM](https://www.coursera.org/learn/blockchain-basics)
+- [Mastering Blockchain by Imran Bashir](https://www.amazon.com/Mastering-Blockchain-Imran-Bashir/dp/1788839048)
 
 #### Books
 
-- Link 1
+- [Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226038)
+- [Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World]()
 
-#### Exam Papers&#x20;
+#### Exam Papers
 
-- Midsem&#x20;
-  - Link 1
-- Endsem&#x20;
-  - Link 1
-- Quizes
-  - Link 1
-
----
+- Midsem
+  - [Link 1](https://www.example.com/midsem-blockchain-2024)
+- Endsem
+  - [Link 1](https://www.example.com/endsem-blockchain-2024)
+- Quizzes
+  - [Link 1](https://www.example.com/quizzes-blockchain-2024)

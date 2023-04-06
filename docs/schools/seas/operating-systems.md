@@ -1,32 +1,24 @@
 # Operating Systems
 
-**Faculty**:
+**Faculty**: Department of Computer Science and Engineering
 
 #### Batch: 2024
 
 #### Description
 
-An operating system (OS) is a software program that manages computer hardware and software resources and provides common services for computer programs. This course provides an in-depth understanding of OS concepts, including process management, memory management, file systems, and security. Students will learn how to design and develop operating systems for different hardware platforms and how to optimize performance and resource utilization. The course will also cover emerging trends in OS, such as virtualization and cloud computing. By the end of the course, students should have a solid foundation in OS and be able to design and implement their own operating systems.
+This course provides an in-depth study of operating systems concepts and their implementation. Students will learn about processes, threads, memory management, file systems, and device drivers. The course will also cover advanced topics such as virtualization, distributed systems, and security. By the end of the course, students should have a deep understanding of operating systems and be able to design and implement their own operating systems.
 
 #### Projects
 
-- Link 1
+- [Process Scheduling Simulator](https://github.com/jainamansari/process-scheduling-simulator)
+- [Memory Management Module for an Operating System](https://github.com/jainamansari/os-memory-management)
 
 #### References
 
-- Link 1
+- [Operating Systems course by Georgia Tech](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
+- [Operating System Concepts by Abraham Silberschatz, Peter B. Galvin, and Greg Gagne](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/1119456339)
 
 #### Books
 
-- Link 1
-
-#### Exam Papers&#x20;
-
-- Midsem&#x20;
-  - Link 1
-- Endsem&#x20;
-  - Link 1
-- Quizes
-  - Link 1
-
----
+- [Modern Operating Systems by Andrew S. Tanenbaum and Herbert Bos](https://www.amazon.com/Modern-Operating-Systems-4th-Andrew/dp/013359162X)
+- [Operating Systems: Three Easy Pieces by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau](https://www.amazon.com/Operating-Systems-Three-Easy-Pieces-ebook/dp/B00KWZ)

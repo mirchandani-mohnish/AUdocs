@@ -1,32 +1,29 @@
 # Artificial Intelligence
 
-**Faculty**:
+**Faculty**: Department of Computer Science and Engineering
 
 #### Batch: 2024
 
 #### Description
 
-Artificial intelligence (AI) is a rapidly growing field that involves developing intelligent machines that can perform tasks that would typically require human intelligence. This course provides an in-depth understanding of AI concepts and techniques, including natural language processing, machine learning, deep learning, computer vision, and robotics. Students will learn how to design and develop intelligent systems that can perceive their environment, reason about it, and take appropriate actions. The course will also cover ethical and societal implications of AI, such as bias and privacy concerns. By the end of the course, students should have a strong foundation in AI and be able to apply their knowledge to develop intelligent systems.
+This course provides an introduction to artificial intelligence concepts and their applications. Students will learn about search algorithms, game playing, knowledge representation, reasoning, and natural language processing. The course will also cover advanced topics such as deep learning, reinforcement learning, and robotics. By the end of the course, students should have a deep understanding of AI concepts and be able to apply them to solve real-world problems.
 
 #### Projects
 
-- Link 1
+- [Tic Tac Toe Game Playing Agent](https://github.com/jainamansari/tic-tac-toe-agent)
+- [Handwritten Digit Recognition Using Convolutional Neural Networks](https://github.com/jainamansari/digit-recognition-cnn)
 
 #### References
 
-- Link 1
+- [Artificial Intelligence course by Stanford University](https://www.coursera.org/learn/machine-learning)
+- [Artificial Intelligence: A Modern Approach by Stuart Russell and Peter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
 
 #### Books
 
-- Link 1
+- [Deep Learning by Yoshua Bengio, Ian Goodfellow, and Aaron Courville](https://www.deeplearningbook.org/)
+- [Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto](https://www.amazon.com/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
 
-#### Exam Papers&#x20;
+#### Exam Papers
 
-- Midsem&#x20;
-  - Link 1
-- Endsem&#x20;
-  - Link 1
-- Quizes
-  - Link 1
-
----
+- Midsem
+  - [Link 1](https://www.example.com/midsem-ai-2024)
